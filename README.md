@@ -14,7 +14,7 @@ The application has been created in `shiny.semantic`, using Shiny modules. The m
 
 The longest distance calculation is the Haversine distance between two sets of longitudes and latitudes. 
 
-The entire application source code, including the modules, are in the app.R file.
+The entire application source code, including the modules, are in the [app.R file](https://github.com/abhjtbhrli/track-vessel/blob/main/app.R).
 
 The application is hosted on [shinyapps.io](https://www.shinyapps.io/) at the following address: [https://abhjt-bhrli.shinyapps.io/vessel-tracker/](https://abhjt-bhrli.shinyapps.io/vessel-tracker/).
 

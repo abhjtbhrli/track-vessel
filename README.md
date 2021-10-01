@@ -1,6 +1,8 @@
 # [Track the Vessel](https://abhjt-bhrli.shinyapps.io/vessel-tracker/) 
 ## R/Shiny Application for Appsilon
 
+![Screenshot 2021-10-01 at 12 37 46 PM](https://user-images.githubusercontent.com/37649445/135579645-0bd4af5d-a76f-4fde-9e28-a9dcea00a359.png)
+
 Here is a small preview of the application.
 
 
